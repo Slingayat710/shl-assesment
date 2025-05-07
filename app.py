@@ -1,7 +1,10 @@
 from flask import Flask, render_template, request
 from recommendation_engine import recommend_assessments  # Assuming this file exists
+from flasgger import Swagger
 
 app = Flask(__name__)
+swagger = Swagger(app)
+
 
 @app.route('/')
 def index():
