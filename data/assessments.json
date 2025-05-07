@@ -1,0 +1,283 @@
+[
+    {
+        "Assessment name": "Automata - Fix (New)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Technical", "Programming"]
+    },
+    {
+        "Assessment name": "Core Java (Entry Level) (New)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Knowledge & Skills", "Java"]
+    },
+    {
+        "Assessment name": "Java 8 (New)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,  
+        "Test type": ["Knowledge & Skills", "Java"]
+    },
+   {
+        "Assessment name": "Core Java (Advanced Level) (New)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Knowledge & Skills", "Java"]
+    },
+    {
+        "Assessment name": "Agile Software Development",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Knowledge & Skills", "Agile"]
+    },
+   {
+        "Assessment name": "Technology Professional 8.0 Job Focused Assessment",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/technology-professional-8-0-job-focused-assessment/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Competencies", "Personality & Behaviour"]
+    },
+  {
+        "Assessment name": "Computer Science (New)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Knowledge & Skills", "Computer Science"]
+    },
+  {
+        "Assessment name": "Entry level Sales 7.1 (International)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Sales"]
+    },
+   {
+        "Assessment name": "Entry Level Sales Sift Out 7.1",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Sales"]
+    },
+  {
+        "Assessment name": "Entry Level Sales Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Sales"]
+    },
+   {
+        "Assessment name": "Sales Representative Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-representative-solution/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Sales"]
+    },
+   {
+        "Assessment name": "Sales Support Specialist Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-support-specialist-solution/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Sales"]
+    },
+   {
+        "Assessment name": "Technical Sales Associate Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/technical-sales-associate-solution/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Sales"]
+    },
+   {
+        "Assessment name": "SVAR - Spoken English (Indian Accent) (New)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Language", "English"]
+    },
+   {
+        "Assessment name": "Sales & Service Phone Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-solution/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Sales", "Service"]
+    },
+   {
+        "Assessment name": "Sales & Service Phone Simulation",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-simulation/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Sales", "Service"]
+    },
+   {
+        "Assessment name": "English Comprehension (New)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/english-comprehension-new/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Language", "English"]
+    },
+   {
+        "Assessment name": "Motivation Questionnaire MQM5",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mqm5/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Personality", "Motivation"]
+    },
+   {
+        "Assessment name": "Global Skills Assessment",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Skills"]
+    },
+   {
+        "Assessment name": "Graduate 8.0 Job Focused Assessment-4228",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/graduate-8-0-job-focused-assessment-4228/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Aptitude"]
+    },
+   {
+        "Assessment name": "Drupal (New)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/drupal-new/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Knowledge & Skills", "Drupal"]
+    },
+   {
+        "Assessment name": "Search Engine Optimization (New)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/search-engine-optimization-new/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Knowledge & Skills", "SEO"]
+    },
+   {
+        "Assessment name": "Administrative Professional Short Form",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Skills"]
+    },
+   {
+        "Assessment name": "General Entry Level - Data Entry 7.0 Solution",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Skills", "Data Entry"]
+    },
+   {
+        "Assessment name": "Automata Selenium",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/automata-selenium/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null, 
+        "Test type": ["Technical", "Selenium"]
+    },
+   {
+        "Assessment name": "Automata Front End",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/automata-front-end/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Technical", "Front End"]
+    },
+   {
+        "Assessment name": "JavaScript (New)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Knowledge & Skills", "JavaScript"]
+    },
+   {
+        "Assessment name": "HTML/CSS (New)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Knowledge & Skills", "HTML", "CSS"]
+    },
+   {
+        "Assessment name": "HTML5 (New)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/html5-new/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Knowledge & Skills", "HTML5"]
+    },
+   {
+        "Assessment name": "CSS3 (New)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/css3-new/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null, 
+        "Test type": ["Knowledge & Skills", "CSS3"]
+    },
+   {
+        "Assessment name": "Selenium (New)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/selenium-new/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Knowledge & Skills", "Selenium"]
+    },
+   {
+        "Assessment name": "SQL Server (New)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Knowledge & Skills", "SQL Server"]
+    },
+   {
+        "Assessment name": "Automata - SQL (New)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Technical", "SQL"]
+    },
+   {
+        "Assessment name": "Manual Testing (New)",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "No",
+        "Duration": null,
+        "Test type": ["Testing", "Manual Testing"]
+    },
+   {
+        "Assessment name": "Verify - Numerical Ability",
+        "URL": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-ability/",
+        "Remote Testing Support": "Yes",
+        "Adaptive/IRT Support": "Yes",
+        "Duration": null,
+        "Test type": ["Aptitude", "Numerical"]
+    }
+]
+   

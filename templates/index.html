@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SHL Assessment Recommender</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>SHL Assessment Recommendation</h1>
+    <form method="POST" action="/recommend">
+        <label for="query">Enter your query or job description:</label><br>
+        <textarea id="query" name="query" rows="7" cols="70"></textarea><br><br>
+        <input type="submit" value="Get Recommendations">
+    </form>
+</body>
+</html>
