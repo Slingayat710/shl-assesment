@@ -22,8 +22,8 @@ This project implements an intelligent assessment recommendation system as per t
 1.  **Clone the repository:**
 
     ```bash
-    git clone <YOUR_GITHUB_REPOSITORY_URL>
-    cd <YOUR_REPOSITORY_NAME>
+    git clone https://github.com/Slingayat710/shl-assesment.git
+    cd shl-assesment
     ```
 
 2.  **Install Python dependencies:**
